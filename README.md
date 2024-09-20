@@ -7,5 +7,5 @@ Este projeto explora diferentes formas de criação de gráficos interativos uti
 - **Dash**: Framework utilizado para a criação de interfaces web interativas.
 - **Pandas**: Biblioteca para manipulação e análise de dados.
 - **Plotly Express**: Biblioteca para visualização de dados, usada para criar gráficos interativos e dinâmicos.
-
+- **Streamlit**: Framework utilizado para a criação de dashboards de maneira rápida e eficiente.
 
