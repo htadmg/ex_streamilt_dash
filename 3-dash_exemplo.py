@@ -7,7 +7,7 @@ app = Dash()
 
 # 1- criando nosso dataframe
 df = pd.DataFrame({
-    'Fruits': ['Maça', 'Laranja', 'Melão', 'Laranja', 'Uva', 'Melão' ],
+    'Fruits': ['Maça', 'Laranja', 'Melão', 'Laranja', 'Uva', 'Melão'],
     'Amount': [4, 1, 2, 2, 4, 5],
     'City': ['Gramado', 'São Luís', 'Gramado', 'São Luís', 'Curitiba', 'Curitiba']
 })
@@ -24,7 +24,7 @@ fig = px.bar(
 # 3- criando o Dashboard
 app.layout = html.Div(
     children=[
-        html.H1('Hello Dash'), 
+        html.H1('Hello Dash'),
         html.Div(
             children=[
                 '''
@@ -41,5 +41,3 @@ app.layout = html.Div(
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-    

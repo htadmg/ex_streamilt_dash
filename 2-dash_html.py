@@ -1,5 +1,5 @@
 import dash
-from dash import dcc, html
+from dash import html
 from datetime import datetime
 
 app = dash.Dash()

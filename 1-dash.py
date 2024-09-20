@@ -11,7 +11,7 @@ app = dash.Dash()
 # )
 
 app.layout = html.Div(
-    children = [
+    children=[
         html.H1('Sales by Country'),
         dcc.Graph(
             id='example-graph',
