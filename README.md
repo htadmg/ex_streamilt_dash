@@ -9,3 +9,11 @@ Este projeto explora diferentes formas de criação de gráficos interativos uti
 - **Plotly Express**: Biblioteca para visualização de dados, usada para criar gráficos interativos e dinâmicos.
 - **Streamlit**: Framework utilizado para a criação de dashboards de maneira rápida e eficiente.
 
+## Tecnologias Utilizadas
+- **Streamlit**: Framework para construção de aplicações web interativas.
+- **Python**: Linguagem de programação utilizada para manipulação de dados e construção da aplicação.
+- **Plotly**: Biblioteca utilizada para criar gráficos interativos.
+- **Pandas**: Utilizada para manipulação de dados e agrupamento de informações.
+- **JSON**: Utilizado para carregar o conjunto de dados inicial.
+
+  
